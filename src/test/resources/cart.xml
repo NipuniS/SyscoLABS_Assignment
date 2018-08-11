@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="cart" verbose="1" configfailurepolicy="continue">
+    <test name="cart">
+        <packages>
+            <package name="com.syscolabs.qe.Assignment1.tests.cart"></package>
+
+        </packages>
+    </test>
+</suite>

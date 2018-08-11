@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ageValidation" verbose="1" configfailurepolicy="continue">
+    <test name="ageValidation">
+        <packages>
+            <package name="com.syscolabs.test.order.voidprepticket"></package>
+
+        </packages>
+    </test>
+</suite>
